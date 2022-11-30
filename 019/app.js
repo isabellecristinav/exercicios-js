@@ -8,7 +8,7 @@ function Letra() {
         document.getElementById('resultado').innerHTML = "Noite"
     }
     else{
-        document.getElementById('resultado');innerHTML = "Período Inválido"
+        document.getElementById('resultado').innerHTML = "Período Inválido"
     }
 }
  
